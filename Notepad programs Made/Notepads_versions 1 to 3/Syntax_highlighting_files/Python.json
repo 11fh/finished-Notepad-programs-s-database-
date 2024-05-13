@@ -1,0 +1,10 @@
+[
+    {
+        "pattern": "def|class|if|else|elif|while|for|try|except|finally|with|as|import|from|return",
+        "style": "bold #0000FF"
+    },
+    {
+        "pattern": "#.*$",
+        "style": "italic #008000"
+    }
+]
